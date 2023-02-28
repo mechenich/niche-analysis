@@ -1,0 +1,10 @@
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Cervidae  42394    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Suidae    41775    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Cervidae  42393    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Camelidae 11186    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Cervidae  29742    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Cervidae  42395    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Cervidae  42396    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Cervidae  56003281 19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Bovidae   29684    19
+Rscript '/home/mechenic/Desktop/Statistics_30AS.R' Bovidae   15735    19
